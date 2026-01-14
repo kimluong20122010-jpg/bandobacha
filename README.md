@@ -1,5 +1,4 @@
-# bandobacha
-bản đồ bắc hà lào cai
+
 <!DOCTYPE html>
 <html lang="vi">
 <head>
